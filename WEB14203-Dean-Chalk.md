@@ -12,14 +12,14 @@
 ##Introduction
 During this term we designed a template for a wep app, then chose an idea and built up the template around that. For my web app I tried to improve upon Ravensbourne Connect by creating Connect Online.
 
-[![Connect Online](connect.png)](https://deanlc.github.io/App/)
+[![Connect Online](connect.png)](https://deanlc.github.io/Connect/)
 
 I also considered the fact that a lot of the people using this app could be using mobile, so I included some mobile css to ensure it's usable on mobile.
-[![Connect Mobile](mobile.png)](https://deanlc.github.io/App/)
+[![Connect Mobile](mobile.png)](https://deanlc.github.io/Connect/)
 
 ##Links
 - [Summative Presentation Link](https://docs.google.com/presentation/d/1B3YE9YikIW09d-j5_sskQmHTveKcr29P5vuTytOwukE/edit?usp=sharing)
-- [GitHub Pages](https://deanlc.github.io/App/)
+- [GitHub Pages](https://deanlc.github.io/Connect/)
 - I used 2 pushers for my project, [People Pusher](https://thimbleprojects.org/onaed/131450/) & [Jobs Pusher](https://thimbleprojects.org/onaed/139431/)
 - [Codewars Profile](https://www.codewars.com/users/deanlc)
 
