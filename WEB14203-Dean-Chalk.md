@@ -30,3 +30,6 @@ I also considered the fact that a lot of the people using this app could be usin
 - [Week 4: Reflection blog](https://medium.com/matteos-blogs-y2/reflection-3f0af0fe117f#.cy2h0bamx)
 - [Week 5: WTF is an API?](https://medium.com/matteos-blogs-y2/wtf-is-an-api-1f15347e6003#.sqaf7nsgq)
 - [Week 6: Lessons from the story of your project](https://medium.com/matteos-blogs-y2/lessons-from-the-story-of-my-project-add4d4144d06#.x5l7cm3d5)
+
+##Additional Links
+- [Connect Markdown](https://github.com/deanlc/Connect/blob/master/info.md)
